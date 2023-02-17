@@ -1,0 +1,16 @@
+fastai>=2.0.0
+graphviz~=0.20
+ipywidgets~=7.6.3
+matplotlib~=3.3.3
+nbdev>=0.2.12
+pandas~=1.2.0
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
+
+nbformat~=5.1.2
+fastcore~=1.5.28
+msrest~=0.7.1
+sklearn~=0.0
+scikit-learn~=0.24.0
+scipy~=1.9.1
