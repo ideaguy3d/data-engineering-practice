@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "Titanic_2001",
+    "name": "Titanic",
+    "year": 2001,
+    "genre": [
+      "romantic",
+      "drama"
+    ],
+    "rating": 4,
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic"
+  },
+  {
+    "_id": "Sunshine_2009",
+    "name": "Sunshine",
+    "year": 2004,
+    "genre": [
+      "sci-fi",
+      "thriller"
+    ],
+    "rating": 3.5,
+    "description": "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057."
+  },
+  {
+    "_id": "Forest_2005",
+    "name": "Forest Gump",
+    "year": 2005,
+    "genre": [
+      "drama",
+      "crime",
+      "thriller"
+    ],
+    "rating": 3,
+    "description": "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057."
+  },
+  {
+    "_id": "Idiots_2004",
+    "name": "3 Idiots",
+    "year": 2004,
+    "genre": [
+      "drama",
+      "comedy",
+      "romantic"
+    ],
+    "rating": 4.5,
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots"
+  },
+  {
+    "_id": "Inception_2006",
+    "name": "Inception",
+    "year": 2001,
+    "genre": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "rating": 4,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "_id": "Wolf_2009",
+    "name": "Wolf of wall street",
+    "year": 2001,
+    "genre": [
+      "action",
+      "drama"
+    ],
+    "rating": 3.5,
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+  }
+]
