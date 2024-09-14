@@ -1,0 +1,16 @@
+
+health_violations_prac_spark_job_1
+
+
+s3://aigeek3d/emr1/health_violations.py
+
+
+--data_source s3://aigeek3d/emr1/data/
+--output_uri s3://aigeek3d/emr1/output/
+
+
+
+
+
+
+//
