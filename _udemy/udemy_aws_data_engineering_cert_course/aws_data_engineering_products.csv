@@ -1,0 +1,67 @@
+﻿product,category
+AWS Backup,storage
+Amazon Elastic Block Store(Amazon EBS),storage
+Amazon Elastic File System (Amazon EFS) ,storage
+Amazon Simple Storage Service (Amazon S3),storage
+AWS Shield ,"SECURITY, IDENTITY, AND COMPLIANCE "
+AWS WAF,"SECURITY, IDENTITY, AND COMPLIANCE "
+AWS Secrets Manager ,"SECURITY, IDENTITY, AND COMPLIANCE "
+Amazon Macie ,"SECURITY, IDENTITY, AND COMPLIANCE "
+AWS Identity and Access Management (IAM) ,"SECURITY, IDENTITY, AND COMPLIANCE "
+AWS Key Management Service (AWS KMS) ,"SECURITY, IDENTITY, AND COMPLIANCE "
+Amazon CloudFront ,NETWORKING AND CONTENT DELIVERY
+AWS PrivateLink ,NETWORKING AND CONTENT DELIVERY
+Amazon Route 53 ,NETWORKING AND CONTENT DELIVERY
+Amazon Virtual Private Cloud (Amazon VPC) ,NETWORKING AND CONTENT DELIVERY
+AWS Application Discovery Service ,MIGRATION AND TRANSFER 
+AWS Application Migration Service ,MIGRATION AND TRANSFER 
+AWS Database Migration Service (AWS DMS),MIGRATION AND TRANSFER 
+AWS DataSync ,MIGRATION AND TRANSFER 
+AWS Transfer Family ,MIGRATION AND TRANSFER 
+AWS Snow Family ,MIGRATION AND TRANSFER 
+AWS CloudFormation ,MANAGEMENT AND GOVERNANCE 
+AWS CloudTrail,MANAGEMENT AND GOVERNANCE 
+Amazon CloudWatch,MANAGEMENT AND GOVERNANCE 
+AWS Config ,MANAGEMENT AND GOVERNANCE 
+Amazon Managed Grafana ,MANAGEMENT AND GOVERNANCE 
+AWS Systems Manager,MANAGEMENT AND GOVERNANCE 
+AWS Well-Architected Tool ,MANAGEMENT AND GOVERNANCE 
+Amazon API Gateway,Frontend Web
+Amazon SageMaker,Machine Learning
+AWS Command Line Interface (AWS CLI) ,DEVELOPER TOOLS 
+AWS Cloud9 ,DEVELOPER TOOLS 
+AWS Cloud Development Kit (AWS CDK) ,DEVELOPER TOOLS 
+AWS CodeBuild ,DEVELOPER TOOLS 
+AWS CodeCommit ,DEVELOPER TOOLS 
+AWS CodeDeploy ,DEVELOPER TOOLS 
+AWS CodePipeline ,DEVELOPER TOOLS 
+Amazon Relational Database Service (Amazon RDS),DATABASE 
+Amazon Neptune ,DATABASE 
+Amazon MemoryDB for Redis ,DATABASE 
+Amazon Keyspaces (for Apache Cassandra) ,DATABASE 
+Amazon DynamoDB ,DATABASE 
+Amazon DocumentDB (with MongoDB compatibility) ,DATABASE 
+Amazon Elastic Container Registry (Amazon ECR) ,CONTAINERS 
+Amazon Elastic Container Service (Amazon ECS) ,CONTAINERS 
+Amazon Elastic Kubernetes Service (Amazon EKS) ,CONTAINERS 
+AWS Batch ,COMPUTE 
+Amazon Elastic Compute Cloud (Amazon EC2) ,COMPUTE 
+AWS Lambda ,COMPUTE 
+AWS Serverless Application Repository ,COMPUTE 
+AWS Budgets ,CLOUD FINANCIAL MANAGEMENT 
+AWS Cost Explorer ,CLOUD FINANCIAL MANAGEMENT 
+Amazon EventBridge ,APP INTEGRATION 
+AWS Step Functions ,APP INTEGRATION 
+Amazon AppFlow ,APP INTEGRATION 
+Amazon Simple Notification Service (Amazon SNS) ,APP INTEGRATION 
+Amazon Simple Queue Service (Amazon SQS) ,APP INTEGRATION 
+Amazon Managed Workflows for Apache Airflow ,APP INTEGRATION 
+Amazon EMR ,ANALYTICS 
+AWS Lake Formation ,ANALYTICS 
+Amazon Redshift ,ANALYTICS 
+Amazon Kinesis ,ANALYTICS 
+AWS Glue ,ANALYTICS 
+Amazon Managed Streaming for Apache Kafka ,ANALYTICS 
+Amazon OpenSearch Service ,ANALYTICS 
+Amazon QuickSight ,ANALYTICS 
+Amazon Athena,ANALYTICS 
