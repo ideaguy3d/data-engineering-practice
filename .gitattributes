@@ -1,1 +1,5 @@
 /Users/juliushernandez/Documents/GitHub/z/data-engineering-practice/_coursera/power_of_stats/module_1_intro_to_stats/1_getting_started/3.[[:space:]]Evan,[[:space:]]Engage[[:space:]]and[[:space:]]connect.webm filter=lfs diff=lfs merge=lfs -text
+*.largefiletype filter=lfs diff=lfs merge=lfs -text
+/Users/juliushernandez/Documents/GitHub/z/data-engineering-practice/_coursera/power_of_stats/module_1_intro_to_stats/1_getting_started/6.[[:space:]]The[[:space:]]role[[:space:]]of[[:space:]]statistics[[:space:]]in[[:space:]]data[[:space:]]science.webm filter=lfs diff=lfs merge=lfs -text
+/Users/juliushernandez/Documents/GitHub/z/data-engineering-practice/_coursera/power_of_stats/module_1_intro_to_stats/1_getting_started/7.[[:space:]]Statistics[[:space:]]in[[:space:]]action,[[:space:]]A:B[[:space:]]testing.webm filter=lfs diff=lfs merge=lfs -text
+/Users/juliushernandez/Documents/GitHub/z/data-engineering-practice/_coursera/power_of_stats/module_1_intro_to_stats/1_getting_started/8.[[:space:]]Descriptive[[:space:]]statistics[[:space:]]versus[[:space:]]inferential[[:space:]]statistics.webm filter=lfs diff=lfs merge=lfs -text
