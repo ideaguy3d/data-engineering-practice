@@ -10,3 +10,4 @@ ztm_pytorch_practice/data
 .ipynb_checkpoints
 *.webm
 *.mp4
+*.png
