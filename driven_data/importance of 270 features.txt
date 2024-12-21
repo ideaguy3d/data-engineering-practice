@@ -1,0 +1,274 @@
+
+  1.                                                                                         "fe_edu_12"  6.729130 ################
+    2.                                                                                         "fe_age_12"  1.969265 ####
+    3.                                                                                         "fe_age_03"  1.368122 ###
+    4.                                                                                     "fe_edu_change"  1.359333 ###
+    5.                                                                                          "reads_12"  1.118877 ##
+    6.                                                                                         "fe_edu_03"  0.555084 #
+    7.                                                                                     "fe_age_change"  0.551918 #
+    8.                                                                                              "year"  0.529675 #
+    9.                                                                                          "fe_floor"  0.386181 #
+   10.                                                                              "fe_employment_change"  0.354733 #
+   11.                                                                                          "games_12"  0.245975 
+   12.                                                                        "decis_personal_12_1. A lot"  0.230461 
+   13.                                                                                         "sewing_12"  0.225529 
+   14.                                                                                        "hincome_12"  0.212166 
+   15.                                                                                        "hincome_03"  0.179749 
+   16.                                                                        "fe_self_reported_health_03"  0.179440 
+   17.                                                                                       "diabetes_12"  0.167316 
+   18.                                                                                      "exer_3xwk_12"  0.166836 
+   19.                                                                                  "fe_employment_12"  0.165802 
+   20.                                                                                      "searnings_12"  0.160858 
+   21.                                                                            "cosas_imp_12_1. Agrees"  0.153629 
+   22.                                                                                      "visit_med_03"  0.149754 
+   23.                                                                                           "hard_12"  0.147099 
+   24.                                                                                      "volunteer_12"  0.135227 
+   25.                                                                       "n_living_child_12_2. 3 or 4"  0.133747 
+   26.                                                                              "fe_social_activities"  0.133381 
+   27.                                                                                         "fe_bmi_03"  0.130051 
+   28.                                                                                     "care_child_12"  0.128933 
+   29.                                                                                   "visit_dental_03"  0.123646 
+   30.                                                                                         "n_depr_12"  0.119255 
+   31.                                                                    "fe_employment_and_unemployment"  0.118298 
+   32.                                                         "fe_combined_parent_edu_and_participant_12"  0.112137 
+   33.                                                                                      "rearnings_12"  0.109493 
+   34.                                                                                     "rjob_hrswk_12"  0.099682 
+   35.                                                                        "fe_self_reported_health_12"  0.099419 
+   36.                                                                              "urban_03_1. 100,000+"  0.097496 
+   37.                                                                                "fe_social_and_iadl"  0.096497 
+   38.                                                                                        "seg_pop_12"  0.095104 
+   39.                                                                                       "act_mant_12"  0.094139 
+   40.                                                                                       "adl_walk_03"  0.092648 
+   41.                                                                                            "sad_03"  0.088699 
+   42.                                                                                         "stroke_12"  0.088268 
+   43.                                                                                           "imss_12"  0.084610 
+   44.                                                                                        "insured_03"  0.082733 
+   45.                                                                                         "fe_memory"  0.082115 
+   46.                                                                                           "hosp_03"  0.080326 
+   47.                                                                                     "iadl_meals_12"  0.079262 
+   48.                                                                                         "n_depr_03"  0.070797 
+   49.                                                                                     "rjob_hrswk_03"  0.070225 
+   50.                                                           "married_03_1. Married or in civil union"  0.070072 
+   51.                                                                                    "fe_iadl_change"  0.068085 
+   52.                                                                                  "hinc_business_12"  0.067905 
+   53.                                                                                   "rinc_pension_03"  0.067253 
+   54.                                                                                       "restless_03"  0.066311 
+   55.                                                                                     "iadl_money_03"  0.064617 
+   56.                                                                                          "tired_12"  0.063999 
+   57.                                                                                      "depressed_03"  0.063198 
+   58.                                                                                          "happy_12"  0.063168 
+   59.                                                                                     "test_tuber_12"  0.062679 
+   60.                                                "rjlocc_m_12_14.Merchants and Sales Representatives"  0.061451 
+   61.                                                                    "fe_self_reported_health_change"  0.061420 
+   62.                             "rjlocc_m_12_8.Artisans and Workers in Production, Repair, Maintenance"  0.060432 
+   63.                                                                              "fe_health_and_memory"  0.059139 
+   64.                                                                                           "imss_03"  0.059135 
+   65.                                                                                          "tired_03"  0.055145 
+   66.                                                                                        "adl_bed_12"  0.054558 
+   67.                                                                     "decis_personal_12_2. A little"  0.054272 
+   68.                                                                                      "visit_med_12"  0.054024 
+   69.                                                                                          "n_mar_12"  0.053627 
+   70.                                                                                  "sgender_12_1.Man"  0.052067 
+   71.                                                                                       "vax_pneu_12"  0.051971 
+   72.                                                                              "urban_03_0. <100,000"  0.051289 
+   73.                                                                            "fe_years_unemployed_12"  0.049683 
+   74.                                                                      "rrelgimp_12_1.very important"  0.047222 
+   75.                                                                                      "migration_12"  0.046753 
+   76.                                                                                  "sgender_03_1.Man"  0.046665 
+   77.                                                                                     "test_tuber_03"  0.046505 
+   78.                                                               "rrfcntx_m_12_6.2 or 3 times a month"  0.045837 
+   79.                                                                                "sgender_12_2.Woman"  0.045555 
+   80.                                                                                   "hypertension_03"  0.045334 
+   81.                                                               "married_03_2. Separated or divorced"  0.045139 
+   82.                                                                       "n_living_child_03_3. 5 or 6"  0.044197 
+   83.                      "rjlocc_m_12_9.Operators of Fixed Machinery and Equipment for Ind. Production"  0.043640 
+   84.                                                                       "n_living_child_03_2. 3 or 4"  0.043003 
+   85.                                                             "rrfcntx_m_12_8.Almost Never, sporadic"  0.042549 
+   86.                                                                                  "insur_private_12"  0.042355 
+   87.                                                                                      "iadl_meds_12"  0.042084 
+   88.                                                                           "rjlocc_m_12_3.Educators"  0.042000 
+   89.                                                                                   "sinc_pension_03"  0.040810 
+   90.                                                                         "cosas_imp_12_3. Disagrees"  0.040768 
+   91.                                                                             "married_03_3. Widowed"  0.040653 
+   92.                                                                                         "fe_bmi_12"  0.040562 
+   93.                                                                                       "adl_walk_12"  0.038979 
+   94.                                                                                 "cesd_depressed_03"  0.038200 
+   95.                                                                                      "test_diab_03"  0.037357 
+   96.                                                                                 "fe_job_end_change"  0.035748 
+   97.                                                                                "fe_adl_walk_change"  0.035603 
+   98.                                                                                      "arthritis_12"  0.035408 
+   99.                                                    "satis_excel_12_2. Neither agrees nor disagrees"  0.035110 
+  100.                                                                                      "adl_dress_03"  0.034512 
+  101.                                                                                      "test_chol_12"  0.032658 
+  102.                                                                              "fe_iadl_money_change"  0.032440 
+  103.                                                    "rjlocc_m_12_16.Workers in the Service Industry"  0.031765 
+  104.                                                                                      "test_diab_12"  0.030884 
+  105.                                                                       "n_living_child_12_3. 5 or 6"  0.030792 
+  106.                            "rjlocc_m_03_6.Workers in Agriculture, Livestock, Forestry, and Fishing"  0.028904 
+  107.                                                                               "fe_illnesses_change"  0.028309 
+  108.                                                                                      "depressed_12"  0.027863 
+  109.                                                                                         "n_iadl_12"  0.027863 
+  110.                        "rjlocc_m_03_15.Traveling Salespeople and Traveling Salespeople of Services"  0.026321 
+  111.                                                                                      "test_pres_12"  0.025852 
+  112.                                                                       "satis_ideal_12_3. Disagrees"  0.025696 
+  113.                                                                           "fe_parents_combined_edu"  0.025658 
+  114.                                                                                      "searnings_03"  0.025597 
+  115.                                                                                       "adl_bath_12"  0.025154 
+  116.                                                                              "married_03_4. Single"  0.024681 
+  117.                                                                                "fe_adl_12_combined"  0.024525 
+  118.                                                                                 "comms_tel_comp_12"  0.023624 
+  119.                                                                                             "tv_12"  0.023415 
+  120.                                                                                         "lonely_03"  0.023098 
+  121.                                                                                       "rjob_end_12"  0.022842 
+  122.                                                                                          "n_mar_03"  0.020763 
+  123.                                                                                       "resp_ill_03"  0.020576 
+  124.                                                                                  "insur_private_03"  0.020435 
+  125.                                                      "cosas_imp_12_2. Neither agrees nor disagrees"  0.019966 
+  126.                                                               "married_12_2. Separated or divorced"  0.018642 
+  127.                                                                                      "iadl_shop_03"  0.018444 
+  128.                                                                                       "hinc_cap_12"  0.018433 
+  129.                                                                                      "energetic_12"  0.017593 
+  130.                                                                                   "visit_dental_12"  0.017540 
+  131.                                                                                      "hinc_rent_03"  0.016163 
+  132.                                                                         "rjobend_reason_03_8.Other"  0.015629 
+  133.                                                    "satis_ideal_12_2. Neither agrees nor disagrees"  0.015396 
+  134.                                                                                   "rinc_pension_12"  0.014763 
+  135.                                                                                    "hinc_assets_03"  0.014759 
+  136.                                                                                       "hinc_cap_03"  0.014534 
+  137.                "rjlocc_m_12_11.Drivers and Asst Drivers of Mobile Machinery and Transport Vehicles"  0.014206 
+  138.                                                                                       "adl_bath_03"  0.014011 
+  139.                                                                       "rrelgimp_12_3.not important"  0.013577 
+  140.                                                                                          "happy_03"  0.013378 
+  141.                                                                                    "pem_def_mar_12"  0.013165 
+  142.                                                                       "rjlocc_m_12_1.Professionals"  0.012394 
+  143.                                                                                           "hosp_12"  0.012386 
+  144.                                                                                          "enjoy_03"  0.012161 
+  145.                                                                                         "lonely_12"  0.011467 
+  146.                             "rjlocc_m_03_8.Artisans and Workers in Production, Repair, Maintenance"  0.010777 
+  147.                                                "rjlocc_m_03_14.Merchants and Sales Representatives"  0.010666 
+  148.                                                                                          "n_adl_03"  0.010357 
+  149.                                                                       "rrfcntx_m_12_7.Once a month"  0.010292 
+  150.                         "rjlocc_m_03_5.Officials and Directors Public, Private, and Social Sectors"  0.010258 
+  151.                                                                  "n_living_child_03_0. No children"  0.010208 
+  152.                                                                              "fe_iadl_meals_change"  0.010143 
+  153.          "rjlocc_m_12_12.Department Heads/Coordinators/Supervisors in Admin and Service Activities"  0.009617 
+  154.                                                                 "rjobend_reason_03_4.Health reason"  0.009468 
+  155.                                                                                      "hinc_rent_12"  0.008942 
+  156.                      "rjlocc_m_03_9.Operators of Fixed Machinery and Equipment for Ind. Production"  0.007893 
+  157.                                                                                         "n_iadl_03"  0.007236 
+  158.                                                                   "rjlocc_m_03_17.Domestic Workers"  0.006844 
+  159.                                                                 "rjobend_reason_03_5.Family reason"  0.006691 
+  160.                                                       "rjlocc_m_12_13.Administrative Support Staff"  0.006310 
+  161.                                                                                     "adl_toilet_03"  0.004818 
+  162.                                                                          "satis_ideal_12_1. Agrees"  0.004463 
+  163. "rjlocc_m_12_7.Bosses/Supervisors etc in Artistic, Ind. Production, Repair, Maintenance Activities"  0.004192 
+  164.                                                                                         "stroke_03"  0.003944 
+  165.                                                                  "rrelgimp_12_2.somewhat important"  0.003860 
+  166.                                                                                           "a16a_12"  0.003635 
+  167.                                                                                "sgender_03_2.Woman"  0.003471 
+  168.                "rjlocc_m_03_11.Drivers and Asst Drivers of Mobile Machinery and Transport Vehicles"  0.003437 
+  169.                                                                             "married_12_3. Widowed"  0.003181 
+  170.                          "rjlocc_m_12_10.Asst/Laborers etc in Ind. Production, Repair, Maintenance"  0.002739 
+  171.                                                                                        "vax_flu_12"  0.002533 
+  172.                                                      "rjlocc_m_03_18.Safety and Security Personnel"  0.002487 
+  173.                                                                       "rjobend_reason_03_1.Retired"  0.002110 
+  174.                                                                                        "insured_12"  0.002064 
+  175.                        "rjlocc_m_12_15.Traveling Salespeople and Traveling Salespeople of Services"  0.001888 
+  176.                                                                                   "sinc_pension_12"  0.001392 
+  177.                                                                                     "iadl_meals_03"  0.001347 
+  178.                                                                      "rjlocc_m_03_19.Other Workers"  0.001335 
+  179.                                                                              "married_12_4. Single"  0.001202 
+  180.                                                                               "fe_adl_dress_change"  0.000950 
+  181.                                                                                      "test_chol_03"  0.000732 
+  182.                                                                         "rjlocc_m_12_2.Technicians"  0.000072 
+  183.          "rjlocc_m_03_12.Department Heads/Coordinators/Supervisors in Admin and Service Activities" -0.000000 
+  184.                                                                         "rjlocc_m_03_2.Technicians" -0.000000 
+  185.                                                   "rjlocc_m_03_4.Workers in Art, Shows, and Sports" -0.000000 
+  186.                                                                                    "fe_mothers_edu" -0.000340 
+  187.                                                   "rjlocc_m_12_4.Workers in Art, Shows, and Sports" -0.000343 
+  188.                                                            "rrfcntx_m_12_5.4 or more times a month" -0.000687 
+  189.                                                                "rrfcntx_m_12_3.2 or 3 times a week" -0.000919 
+  190.                                                                    "wouldnt_change_12_3. Disagrees" -0.000923 
+  191.                                                                                  "fe_employment_03" -0.000946 
+  192.                                                                       "rrelgimp_03_3.not important" -0.001003 
+  193.                                                                                    "n_illnesses_03" -0.001213 
+  194.                                                                       "rjlocc_m_03_1.Professionals" -0.001450 
+  195.                                                                               "fe_iadl_meds_change" -0.001732 
+  196.                                                                                      "arthritis_03" -0.002129 
+  197.                                                                                    "pem_def_mar_03" -0.002327 
+  198.                         "rjlocc_m_12_5.Officials and Directors Public, Private, and Social Sectors" -0.002510 
+  199.                                                                           "rjlocc_m_03_3.Educators" -0.002552 
+  200.                                                                                      "test_pres_03" -0.002651 
+  201.                                                                        "fe_years_unemployed_change" -0.002834 
+  202.                                                                  "rrelgimp_03_2.somewhat important" -0.002872 
+  203.                                                                                      "adl_dress_12" -0.003410 
+  204.                                                                          "satis_excel_12_1. Agrees" -0.003826 
+  205.                                                                                        "alcohol_12" -0.003902 
+  206.                                                                                          "n_adl_12" -0.004047 
+  207.                                                                                      "rearnings_03" -0.004192 
+  208.                                                                                        "tobacco_12" -0.004269 
+  209.                                                                                           "hard_03" -0.004498 
+  210.                                                                                      "exer_3xwk_03" -0.004795 
+  211.                                                                                         "issste_03" -0.004864 
+  212.                          "rjlocc_m_03_10.Asst/Laborers etc in Ind. Production, Repair, Maintenance" -0.005051 
+  213.                                                                        "rrfcntx_m_12_4.Once a week" -0.005054 
+  214.                                                                       "n_living_child_12_1. 1 or 2" -0.006058 
+  215.                                                                                   "hypertension_12" -0.006210 
+  216.                                                                               "fe_iadl_shop_change" -0.007572 
+  217.                                                                            "fe_years_unemployed_03" -0.009296 
+  218.                                                                                        "alcohol_03" -0.010277 
+  219.                                                                                        "adl_bed_03" -0.010307 
+  220.                                                           "married_12_1. Married or in civil union" -0.010326 
+  221.                                                                                       "resp_ill_12" -0.010334 
+  222.                                                 "wouldnt_change_12_2. Neither agrees nor disagrees" -0.010914 
+  223.                                                                              "rrfcntx_m_12_9.Never" -0.010921 
+  224.                                                                                       "diabetes_03" -0.012901 
+  225.                                                                      "rjobend_reason_03_3.Laid off" -0.012989 
+  226.                                                                                     "care_adult_12" -0.013119 
+  227.                                                       "rjlocc_m_03_13.Administrative Support Staff" -0.013451 
+  228.                                                                                         "cancer_12" -0.013577 
+  229.                                                             "rrfcntx_m_12_2.4 or more times a week" -0.014637 
+  230.                                                      "rjlocc_m_12_18.Safety and Security Personnel" -0.016361 
+  231.                                                    "rjlocc_m_03_16.Workers in the Service Industry" -0.016926 
+  232.                                                                                    "table_games_12" -0.017094 
+  233.                                                                                            "sad_12" -0.017223 
+  234.                                                                                    "hinc_assets_12" -0.017235 
+  235.                                                                                  "hinc_business_03" -0.017990 
+  236.                                                         "fe_combined_parent_edu_and_participant_03" -0.018890 
+  237.                                                                                       "restless_12" -0.018963 
+  238.                                                                                         "issste_12" -0.019176 
+  239.                                                                       "satis_excel_12_3. Disagrees" -0.020348 
+  240.                                                                  "n_living_child_12_0. No children" -0.020599 
+  241.                                                                       "n_living_child_03_1. 1 or 2" -0.020916 
+  242.                                                                           "n_living_child_03_4. 7+" -0.025345 
+  243.                                                                              "urban_12_0. <100,000" -0.027283 
+  244.                                                                      "rrelgimp_03_1.very important" -0.028118 
+  245.                                                                       "wouldnt_change_12_1. Agrees" -0.029243 
+  246.                                                                                   "attends_club_12" -0.030590 
+  247.                                                                                        "adl_eat_03" -0.032448 
+  248.                                                                         "decis_personal_12_3. None" -0.033588 
+  249.                                                                                       "rjob_end_03" -0.035404 
+  250.                                                                                 "cesd_depressed_12" -0.036026 
+  251.                                                                                        "tobacco_03" -0.038044 
+  252.                                                                                     "fe_bmi_change" -0.038082 
+  253.                                                                                     "fe_adl_change" -0.038494 
+  254.                                                                                     "fe_job_end_12" -0.038967 
+  255.                                                                                     "iadl_money_12" -0.040707 
+  256.                                                                              "urban_12_1. 100,000+" -0.041367 
+  257.                                                                                        "adl_eat_12" -0.044926 
+  258.                                                                                  "attends_class_12" -0.048016 
+  259.                                                                          "fe_combined_adl_and_iadl" -0.050182 
+  260.                                                                                          "enjoy_12" -0.051537 
+  261.                                                                                    "n_illnesses_12" -0.052113 
+  262.                                                                                      "energetic_03" -0.055107 
+  263.                                                                                    "fe_fathers_edu" -0.056767 
+  264.                                                                   "rrfcntx_m_12_1.Almost every day" -0.057804 
+  265.                                                                                       "out_proc_03" -0.063770 
+  266.                                                                                      "migration_03" -0.065578 
+  267.                            "rjlocc_m_12_6.Workers in Agriculture, Livestock, Forestry, and Fishing" -0.080692 
+  268.                                                                   "rjlocc_m_12_17.Domestic Workers" -0.085800 
+  269.                                                                           "n_living_child_12_4. 7+" -0.086903 
+  270.                                                                                 "decis_personal_03" -0.087997 
+
+
+//
