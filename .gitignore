@@ -22,3 +22,271 @@ _coursera/4. power_of_stats/module_6_end_of_course_projects/3_tiktok_scenario/do
 *.xlsx
 *.twbx
 *.pptx
+./_aws/food_establishment_data.csv
+./_aws/food_establishment_data --copy.csv
+./_pluralsight/building-clustering-models-scikit-learn/datasets/train.csv
+./_pluralsight/reducing-dimensions-data-scikit-learn/datasets/train-images-idx3-ubyte.gz
+./_maven/regression_forecasting/Course Materials/DataScience_in_Python_Regression.pdf
+./_maven/dash_app/Course_Materials/Slide and Demo Notebooks/section02_plotly_code.ipynb
+./_maven/dash_app/Course_Materials/Slide and Demo Notebooks/.ipynb_checkpoints/section02_plotly_code-checkpoint.ipynb
+./_maven/dash_app/Course_Materials/Slide and Demo Notebooks/.ipynb_checkpoints/section02_plotly_chart_types_slides-checkpoint.ipynb
+./_maven/dash_app/Course_Materials/Data/NYC_Collisions.csv
+./_maven/dash_app/Course_Materials/Plotly Dash.pdf
+./_maven/dash_app/data/NYC_Collisions.csv
+./_udemy/Ultimate AWS Data Engineering Bootcamp, 15 Real-World Labs/udemy-aws-de-labs-main/Lab3- ETL Glue Python Shell| Step functions-S3-Redshift | Rental Apartments/data/apartment_attributes.csv
+./_udemy/Ultimate AWS Data Engineering Bootcamp, 15 Real-World Labs/udemy-aws-de-labs-main/Lab4-Batch ETL-EMR-StepFunctions-S3-Datalake | Rental Vehicles/data/vehicles.csv
+./_udemy/Ultimate AWS Data Engineering Bootcamp, 15 Real-World Labs/udemy-aws-de-labs-main/Assignment4-Pyspark-streaming-songs/data/songs.csv
+./_udemy/Ultimate AWS Data Engineering Bootcamp, 15 Real-World Labs/udemy-aws-de-labs-main/Lab1-Airflow-redshift-dyanmo-spotifySongs/data/songs.csv
+./_udemy/Ultimate AWS Data Engineering Bootcamp, 15 Real-World Labs/udemy-aws-de-labs-main/Lab2-Airflow-Spark-Dynamo/data/songs.csv
+./_udemy/udemy_aws_data_engineering_cert_course/AWSCertifiedDataEngineerSlides.pdf
+./_udemy/udemy_aws_data_engineering_cert_course/dea-materials/MagazineReviews/metadata/meta_Magazine_Subscriptions.json
+./_udemy/udemy_aws_data_engineering_cert_course/dea-materials/MagazineReviews/reviews/Magazine_Subscriptions.json
+./_coursera/Advanced-Data-Analytics-Certificate-glossary.docx
+./_coursera/7. advanced_analytics_capstone/Advanced-Data-Analytics-Certificate-glossary.docx
+./_coursera/2. python_intro/module_5_end_of_course_project/tiktok_scripting/Exemplar - TikTok-Course-2-executive-summary.pptx
+./_coursera/2. python_intro/module_5_end_of_course_project/tiktok_scripting/Activity-Templates - Executive-summaries.pptx
+./_coursera/2. python_intro/module_5_end_of_course_project/Course-2-glossary.docx
+./_coursera/6. machine_learning/module_5_end_of_course_project/2_tiktok_ml/Activity-Exemplar - TikTok-Course-6-executive-summary.pptx
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_2_ml_construct_and_execute/4. Construct a Naive Bayes model with Python.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_2_ml_construct_and_execute/5. Key evaluation metrics for classification models.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_2_ml_construct_and_execute/1. Introduction to Naive Bayes.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/5. Ganesh_ Overcome challenges and learn from your mistakes.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/9. Solve issues that come with imbalanced datasets.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/7. Introduction to feature engineering.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/3. Plan for a machine learning project.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/6. Analyze data for a machine learning model.mp4
+./_coursera/6. machine_learning/module_2_workflow_building_complex_models/section_1_ml_plan_and_analyze/12. Feature engineering and class balancing.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_2_eval_kmeans_models/1. Key metrics for representing K-means clustering.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_2_eval_kmeans_models/5. Apply inertia and silhouette score with Python.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_2_eval_kmeans_models/2. Inertia and silhouette coefficient metrics.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_1_explore_unsupervised_learning_kmeans/4. Annotated follow-along guide - Use K-means for color compression with Python.ipynb
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_1_explore_unsupervised_learning_kmeans/2. Introduction to K-means.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_1_explore_unsupervised_learning_kmeans/1. Welcome to module 3.mp4
+./_coursera/6. machine_learning/module_3_unsupervised_learning_techniques/section_1_explore_unsupervised_learning_kmeans/5. Use K-means for color compression with Python.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/Invistico_Airline.csv
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/2. Gradient boosting machines.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/7. Build an XGBoost model with Python.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/4. Tune a GBM model.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/rf_val_model.pickle
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_4_boosting/1. Introduction to boosting - AdaBoost.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_1_additional_supervised_learning_techniques/1. Welcome to module 4.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_1_additional_supervised_learning_techniques/5. Build a decision tree with Python .mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_1_additional_supervised_learning_techniques/2. Tree-based modeling .mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_5_review_tree_based_modeling/Wrap-up.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_2_tune_tree_based_models/Invistico_Airline.csv
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_2_tune_tree_based_models/3. Verify performance using validation.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_2_tune_tree_based_models/1. Tune a decision tree.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_2_tune_tree_based_models/6. Tune and validate decision trees with Python.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/Invistico_Airline.csv
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/7. Build and cross-validate a random forest model with Python.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/3. Explore a random forest.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/rf_val_model.pickle
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/5. Tuning a random forest.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/8. Build and validate a random forest model using a validation data set.mp4
+./_coursera/6. machine_learning/module_4_tree_based_modeling/section_3_bagging/1. Bootstrap aggregation.mp4
+./_coursera/1. data_science_foundations/module_2_impact_of_data/2_data_career_skills/6. The practices and principles of good data stewardship | Coursera.pdf
+./_coursera/1. data_science_foundations/module_4_data_applications_workflow/3_communicate_like_a_data_pro/Visitation-prediction-project-executive-summary.pptx
+./_coursera/1. data_science_foundations/module_4_data_applications_workflow/3_communicate_like_a_data_pro/1. Connect PACE with upcoming course themes.mp4
+./_coursera/3. data_to_insights/module_5_end_of_course_projects/tiktok_eda_viz/Activity Templates, Executive-summaries.pptx
+./_coursera/3. data_to_insights/module_4_vizs_presentations/section.1_present_a_story/tableau_dataset.csv
+./_coursera/3. data_to_insights/module_4_vizs_presentations/section.1_present_a_story/tableau_main_2009_to_2018.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_label_encoding_dataset.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_outliers_dataset3.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_missing_data_dataset1.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_missing_data_dataset2.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/Annotated follow-along guide_ Dealing with missing data in Python.ipynb
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_input_validation_joining_dataset1.csv
+./_coursera/3. data_to_insights/module_3_clean_data/section.1_the_challenge_of_missing_or_duplicate_data/eda_input_validation_joining_dataset2.csv
+./_coursera/3. data_to_insights/module_2_explore_raw_data/section.1_discovering_is_the_beginning/eda_using_basic_data_functions_in_python_dataset2.csv
+./_coursera/3. data_to_insights/module_2_explore_raw_data/section.1_discovering_is_the_beginning/eda_using_basic_data_functions_in_python_dataset1.csv
+./_coursera/3. data_to_insights/module_2_explore_raw_data/section.2_understand_data_format/eda_manipulate_date_strings_with_python.csv
+./_coursera/3. data_to_insights/module_2_explore_raw_data/section.3_create_structure/eda_structuring_with_python_dataset1.csv
+./_coursera/3. data_to_insights/module_2_explore_raw_data/section.3_create_structure/eda_structuring_with_python_dataset2.csv
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/3. Evan, Engage and connect.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/7. Statistics in action, A:B testing.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/1. Introduction to Course 4.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/5. Welcome to module 1.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/8. Descriptive statistics versus inferential statistics.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/1_getting_started/6. The role of statistics in data science.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/3_calculate_stats_with_py/2. Compute descriptive statistics with Python.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/2_descriptive_stats/3. Measures of dispersion.mp4
+./_coursera/4. power_of_stats/module_1_intro_to_stats/2_descriptive_stats/1. Measures of central tendency.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/2_descriptive_stats/7. Statistics as the foundation of data-driven solutions.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/2_descriptive_stats/5. Measures of position.webm
+./_coursera/4. power_of_stats/module_1_intro_to_stats/4_review_stats_intro/Wrap-up.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/2_construct_confidence_intervals/2. Construct a confidence interval for a mean.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/2_construct_confidence_intervals/1. Construct a confidence interval for a proportion.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/3_confidence_intervals_python/1. Confidence intervals with Python.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/1_intro_confidence_intervals/3. Interpret confidence intervals.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/1_intro_confidence_intervals/2. Introduction to confidence intervals.mp4
+./_coursera/4. power_of_stats/module_4_confidence_intervals/1_intro_confidence_intervals/1. Welcome to module 4 confidence intervals.webm
+./_coursera/4. power_of_stats/module_4_confidence_intervals/1_intro_confidence_intervals/index.mp4
+./_coursera/4. power_of_stats/module_4_confidence_intervals/4_review_confidence_intervals/Wrap-up.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/5_end-of-course_portfolio_project_wrap-up/End-of-course project wrap-up and tips for ongoing career success.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/2_autotaxi_stats/Activity-Exemplar, Course-4-Automatidata-Executive-Summary.pptx
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/6_course_review_power_of_stats/Course wrap-up.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/1_apply_skills_work_scenario/1. Welcome to module 6.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/1_apply_skills_work_scenario/3. Introduction to your Course 4 end-of-course portfolio project.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/1_apply_skills_work_scenario/2. Sean, Showcase your talents to potential employers.webm
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/tiktok_stats/docs/Exemplar_TikTok-Course-4-executive-summary.pptx
+./_coursera/4. power_of_stats/module_6_end_of_course_projects/tiktok_stats/docs/Activity-Templates_Executive-summaries.pptx
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/4_hypothesis_testing_in_python/Use Python to conduct a hypothesis test.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/1_hypothesis_testing/2. Introduction to hypothesis testing.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/1_hypothesis_testing/1. welcome vid.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/5_review_hypothesis_testing/Wrap-up.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/3_two_sample_tests/3. Two-sample tests, Proportions.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/3_two_sample_tests/1. Two-sample tests, Means.webm
+./_coursera/4. power_of_stats/module_5_hypothesis_testing_intro/2_one_sample_tests/1. One-sample test for means.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/4_sampling_review/sample_set_methodologies_review.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/2_sampling_dists/1. how sampling affects data.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/2_sampling_dists/2. central limit theorem.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/2_sampling_dists/4. sample dist of proportion.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/1. Welcome to module 3.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/2. Value everyone's contributions.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/3. Introduction to sampling.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/7. Compare sampling methods.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/5. The sampling process.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/1_intro_to_sampling/9. Impact of bias in sampling.webm
+./_coursera/4. power_of_stats/module_3_sample_set_methodologies/3_sample_dist_python/sampling-distributions-with-python.webm
+./_coursera/4. power_of_stats/module_2_probability/6_review/Wrap-up.webm
+./_coursera/4. power_of_stats/module_2_probability/2_conditional_probability/4. The expanded version of Bayes’s theorem.mp4
+./_coursera/4. power_of_stats/module_2_probability/2_conditional_probability/3. Discover Bayes' theorem.webm
+./_coursera/4. power_of_stats/module_2_probability/2_conditional_probability/1. Conditional probability.webm
+./_coursera/4. power_of_stats/module_2_probability/4_continuous_probability_distributions/3. Standardize data using z-scores.webm
+./_coursera/4. power_of_stats/module_2_probability/4_continuous_probability_distributions/1. The normal distribution.webm
+./_coursera/4. power_of_stats/module_2_probability/5_probability_dist_w_python/2. Work with probability distributions in Python.mp4
+./_coursera/4. power_of_stats/module_2_probability/3_discrete_probability_distributions/3. The Poisson distribution.mp4
+./_coursera/4. power_of_stats/module_2_probability/3_discrete_probability_distributions/2. The binomial distribution.mp4
+./_coursera/4. power_of_stats/module_2_probability/3_discrete_probability_distributions/1. Introduction to probability distributions.webm
+./_coursera/4. power_of_stats/module_2_probability/1_basic_concepts_probability/1. Welcome to module 2.webm
+./_coursera/4. power_of_stats/module_2_probability/1_basic_concepts_probability/3. The principles of probability.webm
+./_coursera/4. power_of_stats/module_2_probability/1_basic_concepts_probability/2. Objective versus subjective probability.webm
+./_coursera/4. power_of_stats/module_2_probability/1_basic_concepts_probability/5. The basic rules of probability and events.webm
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/1_understand_multiple_linear_regression/1. Welcome to module 3.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/1_understand_multiple_linear_regression/2. Introduction to multiple regression.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/2_model_assumptions_revisited/2. Make assumptions with multiple linear regressions.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/2_model_assumptions_revisited/1. Represent categorical variables.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/3_model_interpretation/1. Interpret multiple regression coefficients.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/4_variable_selection_and_model_evaluation/1. The problem with overfitting.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/4_variable_selection_and_model_evaluation/4. Regularization - Lasso, Ridge, and Elastic Net regression.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/4_variable_selection_and_model_evaluation/3. Top variable selection methods.mp4
+./_coursera/5. regression_analysis/module_3_multiple_linear_regression ✅/5_review/Wrap-up.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/1_foundations_logistic_regression/2. Find the best logistic regression model for your data.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/1_foundations_logistic_regression/1. Welcome to module 5.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/2_logistic_regression_python/2. Construct a logistic regression model with Python.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/4_compare_regression_models/1. Answer questions with regression models.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/5_review/Wrap-up .mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/3_interpret_logistic_regression/2. Key metrics to assess logistic regression results.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/3_interpret_logistic_regression/6. Lab, Perform Logistic Regression/Invistico_Airline.csv
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/3_interpret_logistic_regression/1. Evaluate a binomial logistic regression model.mp4
+./_coursera/5. regression_analysis/module_5_logistic_regression ✅/3_interpret_logistic_regression/4. Interpret the results of a logistic regression.mp4
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/3_logistic_regression/1. Introduction to logistic regression.mp4
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/4_review/Wrap-up.mp4
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/1_getting_started/6. PACE in regression analysis.webm
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/1_getting_started/5. Welcome to module 1.webm
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/1_getting_started/3. Gain actionable insights with regression models.webm
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/1_getting_started/1. Introduction to Course 5.webm
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/2_linear_regression/1. Introduction to linear regression.webm
+./_coursera/5. regression_analysis/module_1_intro_to_complex_data_relationships ✅/2_linear_regression/2. Mathematical linear regression.webm
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/2_analysis_of_variance/1. Introduction to the analysis of variance .mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/2_analysis_of_variance/3. Explore one-way vs. two-way ANOVA tests with Python.mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/2_analysis_of_variance/4. ANOVA post hoc tests with Python.mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/2_analysis_of_variance/5. Ignacio, Discovery at every stage of your career.mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/4_review/Wrap-up .mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/3_ancova_manova_mancova/1. ANCOVA - Analysis of covariance .mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/3_ancova_manova_mancova/2. More dependent variables - MANOVA and MANCOVA.mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/1_chi_squared_test/1. Welcome to module 4 .mp4
+./_coursera/5. regression_analysis/module_4_advanced_hypothesis_testing ✅/1_chi_squared_test/2. Hypothesis testing with chi-squared.mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/3_wrap up/1. End-of-course project wrap-up and tips for ongoing career success.mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/3_wrap up/2. Course wrap-up.mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/1_workplace scenario/1. Welcome to module 6.mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/1_workplace scenario/3. Introduction to your Course 5 end-of-course portfolio project.mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/1_workplace scenario/2. Leah_ Strategies for sharing models and modeling techniques .mp4
+./_coursera/5. regression_analysis/module_6_end_of_course_project ✅/tiktok_regression/Activity-Templates-Executive-summaries.pptx
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/3_evaluate_linear_regression_model/1. Evaluate uncertainty in regression analysis .mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/3_evaluate_linear_regression_model/3. Model evaluation metrics.mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/4_interpret_linear_regression_results/1. Interpret and present linear regression results.mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/1_foundations_linear_regression/3. Ordinary least squares estimation.mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/1_foundations_linear_regression/2. Jerrod_ The incredible value of mentorship.mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/1_foundations_linear_regression/1. Welcome to module 2.mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/5_review/Wrap-up .mp4
+./_coursera/5. regression_analysis/module_2_simple_linear_regression ✅/2_assumptions_and_construction_py/1. Make linear regression assumptions.mp4
+./DE_prep/apache kafka explained.mp4
+./.git/objects/92/95180246e5e7806950a02f2040fa8c35147c71
+./.git/objects/50/4e3b853985ee1131e6e8b59f72416923cd169e
+./.git/objects/9e/c06271ff1e4d7eeb432633e8c04f7da82fea21
+./.git/objects/9e/c07d747c476cf608537ebb3160c6e1640cd691
+./.git/objects/04/6f3c9366b541b983eded07b1e61874efae1997
+./.git/objects/32/efb285cb71af0ee77e792ea3affbf1da21ddfd
+./.git/objects/32/03cc76a51119c8ebfa23d67b823c135f538c97
+./.git/objects/69/088b9ba90881655af4534f90382c565b01d1b8
+./.git/objects/67/58dd583921f8faacb4d06ed936aa76c3c45740
+./.git/objects/ad/cee3a14c04a9062a5fe529be398c92a4a021f3
+./.git/objects/da/8a4efb3fb475a7719a71ad62763a9090e39b00
+./.git/objects/b4/2c257814dc15b2aa191c950ed18f3446fe4be5
+./.git/objects/c0/e850c67bd324d30733b7df4f102c92e65d90db
+./.git/objects/c9/949a720005c85962447d820515f4893f47cc71
+./.git/objects/c9/5f93b92b8c9bb30d6871829503449800e4ab01
+./.git/objects/f2/87d559dab73c1066dfa65c09c564c2f64cdbfd
+./.git/objects/fb/4bb2b844c67ffe0945adb45c9a8ff85d86d1cc
+./.git/objects/ed/687b21ae031cd0e6f47ab5dc5d6e43e3761c28
+./.git/objects/ed/24a4c359e8c97a6be526867c70c0def0771ecd
+./.git/objects/73/d79dd10f0b9f9e78de8666e1763965aef74414
+./.git/objects/73/d29841ea1f0cd992fb39ab83c6cb4c875f106a
+./.git/objects/87/34d25efef20f0cb77d0786886c5a552c37f6e9
+./.git/objects/1a/5eec49e130d45e1b8b374322e4bf37a6bc2f3f
+./.git/objects/28/803998c27b141ed5d80eaa2ab03d4e54a3e05a
+./.git/objects/17/f3d5a9e3a8cbdfffc4a5e9355cc1fc1ddf69de
+./.git/objects/8a/1ffe13eaa305182999954970b42c656b367cea
+./.git/objects/26/55c9c5f0758f4a3aad68f7da35d75d406cc2af
+./.git/objects/26/22b391aa20634000f1f7cd148c4588948cf55c
+./.git/objects/21/39772c5c7a46cbcfaaafa2a6ef881c87b06f16
+./.git/objects/21/dcd67c17d1c7daa728322649d5f860e675403c
+./.git/objects/4d/afa04b545711caaea6d3a3b0cb2d5e3bcc36d6
+./.git/objects/75/902a102e7eeef76579f3f9e14611ae0b59875d
+./.git/objects/07/265533bc7de4d8a4e924a7eca0deca6da304ab
+./.git/objects/96/59682551579eb27b379595ba12e8f5c96b5d26
+./.git/objects/98/9266ac2efd00c15b20ff56a3003646dddb7768
+./.git/objects/6c/f3076b36bafa7da1563b28bbe863fd78a008a8
+./.git/objects/6c/c4f1b8ed87ce26518418364cb042f05ec85967
+./.git/objects/0a/ccc19f94af62f407514c607206b2675f0c93f5
+./.git/objects/90/f2dc4da3c196d7dd4fc985f11874e20e7bed87
+./.git/objects/90/db58afa3cd4610c12c90fb6dd05b4290faa372
+./.git/objects/d3/09ccbaaf945b0e4398dac3f6e1c2a3795addca
+./.git/objects/ba/c8f0331433acbfef6660f8daf19e5006da5393
+./.git/objects/ba/b7f8dd57e038daf43eab8241c48650650d92a0
+./.git/objects/a7/c712126dee49be7dee480a6f7ae0178ffdc595
+./.git/objects/aa/2820709ec4749c7d9ac5cf22da7d9c3232e0a2
+./.git/objects/a6/0ffd5e8fd4a70efbd89db8737c0a03accfd9ee
+./.git/objects/c4/d4e99ba74d587bfd1610f95b04eaa33f5b435a
+./.git/objects/c4/f4cb8160132d001b347cadd657a4beb894e311
+./.git/objects/ea/d68c3439f1dfd54627da340644dcf591f0bb2f
+./.git/objects/e6/ee0e37929b03937517cd45e65f4e8ca9de720d
+./.git/objects/f9/c095d09757d2558782f29073c3e03220830f25
+./.git/objects/f0/32132afadb8840788271cfe059a26c7000fb4c
+./.git/objects/ff/333c756b1bd8321141c1e9c9596e71244fda7a
+./.git/objects/ff/e42e897ec8445fb87ad7b605e5432bc545f17a
+./.git/objects/ff/2f5a96367a3c1656f09c93649f07143ff8b11e
+./.git/objects/c2/6df4994e434f67c665bbe150a2bbf2c5aa9432
+./.git/objects/79/c96bc7c32cd23ef13f034bc743cb4ef0d71fd2
+./.git/objects/2d/d5228bd9049e197fd377df9c2d00f142ba2167
+./.git/objects/70/a3a8b52622f9ad96d9534707b2c97d538d65ec
+./.git/objects/84/014003e62a8302ff90eff78150ad7cfb0b6191
+./.git/objects/4a/a4a54264564a17068c9e1e28e745078b4a8529
+./.git/objects/4f/a34c8de5d7cc74a508b19e1bd80f4706546388
+./.git/objects/15/c3b202d293d66a7c887b0e8d48582ca273cfa5
+./.git/objects/1d/0f068ec9e1a416e489715cf521341dd1479e60
+./.git/objects/71/1569a0abb7ea68ceef99f8f19b283c108244f2
+./.git/objects/8e/a0f891bebaf1a818d50be154f9386cf9d15779
+./.git/objects/22/0da62c371bf3f8e7ef2c616117999b2275123d
+./data/gss.hdf5
+./ztm_pytorch_deep_learning/test_images/t10k-images-idx3-ubyte
+./ztm_pytorch_deep_learning/v2023/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+./ztm_pytorch_deep_learning/v2023/data/FashionMNIST/raw/train-images-idx3-ubyte
+./ztm_pytorch_deep_learning/v2023/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+./_datacamp/data_structures_algorithms/datacamp dsa chapter3.pdf
+./_datacamp/Scikit-Learn_Cheat_Sheet.pdf
+./_databricks_academy/data_engineer_associate_cert/MAY_2024/data-engineering-with-databricks-dais.pdf
+./_databricks_academy/data_engineer_associate_cert/MAY_2024/apache-spark-programming-with-databricks copy.pdf
+./_databricks_academy/data_engineer_associate_cert/MAY_2024/apache-spark-programming-with-databricks.pdf
+./_databricks_academy/asp_mar2023/ASP 3.2 - Query Optimization.ipynb
